@@ -1,5 +1,5 @@
 # WizardCodeAssigmentNaor
-Assigment number 1 Jenkins with Docker compose 
+assignment number 1 Jenkins with Docker compose 
 Steps to make it work:
 
 1  for the docker compose assigment first you need to a mkdir named jenkins  --The command is mkdir jenkins
@@ -30,7 +30,7 @@ after that that administraitor passowrd is requierd for the ui in order to acces
 
 
 
-Assigment Number 2 Ldap server 
+assignment Number 2 Ldap server 
 
  i know the mfa is possible with freeRadius service and they got a few options with aws or with docker but im not at that level yet.. its alot of presetting
  but i could find ldap server with an Php ui to authorize accses within your network 
