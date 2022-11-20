@@ -1,7 +1,39 @@
 # WizardCodeAssigmentNaor
 Assigment number 1 Jenkins with Docker compose 
+Steps to make it work:
+1. for the docker compose assigment first you need to a mkdir named jenkins  --The command is mkdir jenkins
+2.and then make another dir for jenkins_home in order to preserve the data it is the path of the volume --with mkdir ~/jenkins_home
+3.you need to move to the jenkins dir with cd jenkins
+4.you need to create a file for the docker-compose and docker compose can only read ceritan kind of syntax so we will be useing yaml
+5. the command is // vim docker-compose.yaml 
+6. last step is to copy and paste the syntax i created for the yaml inside the docker-compose file 
+The file should look like that
 
-for the docker compose assigment first you need to a mkdir jenkins and then make another dir for jenkins_home with mkdir ~/jenkins_home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/105611672/202924909-a3193fa1-e843-40c2-a7ea-02ef85274258.png)
+
+
+
+
+
+
+
+
 after that that administraitor passowrd is requierd for the ui in order to acceses so we need to check the log and take only the pass with that command is easier
 docker exec jenkins-lts cat /var/jenkins_home/secrets/initialAdminPassword
 
