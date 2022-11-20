@@ -52,7 +52,7 @@ after that that administraitor passowrd is requierd for the ui in order to acces
 
  ![image](https://user-images.githubusercontent.com/105611672/202928173-b82003de-e72a-4b75-939b-01d3cc783582.png)
 
- 5 run the command docker compose up -d  in order to run the docker file 
+ 5 run the command docker compose up -d  in order to run the docker-compose file
  
  6 open the browser and search for localhost:80
  
