@@ -58,6 +58,6 @@ after that that Administrator password is requierd for the ui in order to accese
  
  # 7 log in to the admin account with the following .. 
  
- User name to access the Ldap Server is cn=admin,dn=ramhlocal,dn=com  
+ User name to access the Ldap Server is cn=admin,dc=ramhlocal,dc=com  
  Password to access the Ldap Server is admin_pass
  again the web is based Php the only normal doco i could find to go with it and build it 
