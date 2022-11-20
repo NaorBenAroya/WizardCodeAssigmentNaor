@@ -22,7 +22,7 @@ Steps to make it work:
 
 
 
-after that that administraitor passowrd is requierd for the ui in order to acceses so we need to check the log and take only the pass with that command is easier
+after that that Administrator password is requierd for the ui in order to acceses so we need to check the log and take only the Administrator pass with that command is easier
 
  7 docker exec jenkins-lts cat /var/jenkins_home/secrets/initialAdminPassword
 
