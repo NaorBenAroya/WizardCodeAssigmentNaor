@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   openldap:
-    image: osixia/openldap:lts
+    image: osixia/openldap:latest
     container_name: openldap
     hostname: openldap
     ports:
