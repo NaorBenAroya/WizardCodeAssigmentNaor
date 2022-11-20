@@ -10,6 +10,10 @@ Steps to make it work:
 The file should look like that
 
 
+
+
+
+
 after that that administraitor passowrd is requierd for the ui in order to acceses so we need to check the log and take only the pass with that command is easier
 docker exec jenkins-lts cat /var/jenkins_home/secrets/initialAdminPassword
 
