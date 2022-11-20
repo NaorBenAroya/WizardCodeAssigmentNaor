@@ -1,4 +1,4 @@
-# WizardCodeAssigmentNaor
+# WizardCodeAssignment_Naor
 assignment number 1 Jenkins with Docker compose 
 Steps to make it work:
 
