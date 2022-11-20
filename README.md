@@ -8,6 +8,7 @@ docker exec jenkins-lts cat /var/jenkins_home/secrets/initialAdminPassword
 then just get in the web wirte localhost:8080 and start with install pluging and etc..
 
 Assigment Number 2 Ldap server 
+
  i know the mfa is possible with freeRadius service and they got a few options with aws or with docker but im not at that level yet.. its alot of presetting
  but i could find ldap server with an Php ui to authorize accses within your network 
  
